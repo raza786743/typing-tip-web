@@ -1,0 +1,6 @@
+{
+  "name": "Typing Tip",
+  "description": "Complete typing skill platform with English and Urdu speed tests, timed practice, daily challenges, typing games, WPM calculator, certificates, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
